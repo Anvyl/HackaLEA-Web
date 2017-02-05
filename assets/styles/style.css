@@ -1,0 +1,18 @@
+table.map td:not([colspan]){
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+table.map{
+    margin:auto;
+    width: 1000px;
+    height: 750px;
+}
+
+div.col-md-3{
+    margin: 2px;
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+}
